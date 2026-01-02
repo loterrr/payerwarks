@@ -4,7 +4,7 @@ const ctx = canvas.getContext("2d");
 canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
 
-const TEXT = "tanginamo reymark";
+const TEXT = "tanginamo rachelle";
 const FONT_SIZE = 30;
 const MAX_CHARS_PER_LINE = 15;
 
